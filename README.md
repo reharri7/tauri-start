@@ -1,3 +1,12 @@
+
+## Running this project
+
+```bash
+npm run tauri dev
+```
+
+# Below pertains to just Next.js
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
